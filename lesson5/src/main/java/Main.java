@@ -7,6 +7,8 @@ public class Main
         System.out.println(example.stringExample);
 
 
+        int newVal11 = 10;
+
         System.out.println("Hello world");
         System.out.println("test");
         System.out.println("test");   //command +D copy
